@@ -1,4 +1,4 @@
-package br.com.crud.prjeto.fabrica_veiculo;
+package br.com.crud.projeto.fabrica_veiculo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
